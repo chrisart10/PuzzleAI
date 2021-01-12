@@ -2,6 +2,8 @@
 Projects
 
 @Authors
-Espinoza, Christian
-Franco, Adrian
-Leguisamo, Gabriel
+- Espinoza, Christian
+
+- Franco, Adrian
+
+- Leguisamo, Gabriel
