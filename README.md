@@ -1,4 +1,4 @@
-# PuzzleAI
+# Puzzle.AI
 Startup's Projects 
 
 @Authors
